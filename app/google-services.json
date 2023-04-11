@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86071542881",
+    "project_id": "good-music-3f26b",
+    "storage_bucket": "good-music-3f26b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86071542881:android:ffbef2deb490acfff99620",
+        "android_client_info": {
+          "package_name": "com.rapzinator.goodmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86071542881-3dic76kjjo8ls7bh4r13veg7ho1evjvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapzinator.goodmusic",
+            "certificate_hash": "a3b92472f588e447f0c42d7fedf5fc19e9b8a047"
+          }
+        },
+        {
+          "client_id": "86071542881-gjlfvitsg98jcqv53car8m0su1lti111.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvypsphy-Sdl0NVZJcv-vAxmBjfxV5sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86071542881-gjlfvitsg98jcqv53car8m0su1lti111.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
